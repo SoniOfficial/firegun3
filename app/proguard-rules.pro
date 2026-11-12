@@ -1,0 +1,1 @@
+-keep class tj.soni.firegun.** { *; }
